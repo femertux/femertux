@@ -2,7 +2,7 @@
 
 **`Desarrollador móvil capaz y muy motivado`**
 
-### 💼 **[Mi Portafolio de GitHub](https://github.com/femertux/mobile-portfolio)**
+### 💼 **[Mi Portafolio](https://github.com/femertux/mobile-portfolio)**
 
 ---
 
