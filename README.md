@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Julio
 
-**`Desarrollador movil capaz y muy motivado`**
+**`Desarrollador móvil capaz y muy motivado`**
 
 ### 💼 **[Mi Portafolio de GitHub](https://github.com/femertux/mobile-portfolio)**
 
 ---
 
 ### About
-- 💻 Comenze en el desarrollo movil con Android desde 2016 y iOS desde 2018.
-- 🖌️ Fanatico de Compose y SwiftUI
+- 💻 Comencé en el desarrollo móvil con Android desde 2016 y iOS desde 2018.
+- 🖌️ Fanático de Compose y SwiftUI
 
 
 
