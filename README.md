@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Julio
 
-<!--
-**femertux/femertux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desarrollador movil capaz y muy motivado`**
 
-Here are some ideas to get you started:
+### 💼 **[Mi Portafolio de GitHub](https://github.com/femertux/mobile-portfolio)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+- 💻 Comenze en el desarrollo movil con Android desde 2016 y iOS desde 2018.
+- 🖌️ Fanatico de Compose y SwiftUI
+
+
+
+ ### Skills
+- 🎨 SwiftUI
+- 🎨 Compose
+- 📐 UIKit
+- 💽 Core Data
+- 🔥 Firebase
+- 📍 MapKit
+- 🤖 Kotlin
+- 💾 Room
+- 🏛️ MVVM
