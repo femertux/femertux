@@ -6,13 +6,13 @@
 
 ---
 
-### About
+### Acerca de mí
 - 💻 Comencé en el desarrollo móvil con Android desde 2016 y iOS desde 2018.
 - 🖌️ Fanático de Compose y SwiftUI
 
 
 
- ### Skills
+ ### Habilidades
 - 🎨 SwiftUI
 - 🎨 Compose
 - 📐 UIKit
