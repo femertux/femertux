@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julio
 
-**`Desarrollador móvil capaz y muy motivado`**
+**`Desarrollador móvil`**
 
 ### 💼 **[Mi Portafolio](https://github.com/femertux/mobile-portfolio)**
 
