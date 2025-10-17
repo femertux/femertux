@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Julio
 
-[![Julio Garcia profile views](https://u8views.com/api/v1/github/profiles/15144396/views/day-week-month-total-count.svg)](https://u8views.com/github/femertux)
-
 **`Desarrollador móvil`**
 
 ### 💼 **[Mi Portafolio](https://github.com/femertux/mobile-portfolio)**
