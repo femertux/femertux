@@ -1,24 +1,22 @@
-# 👋 Hi, I'm Julio
+# Hola, soy Julio García 👋
 
-**`Desarrollador móvil`**
+Desarrollador móvil enfocado en **Android, iOS, Android TV, tvOS y Kotlin Multiplatform**.
 
-### 💼 **[Mi Portafolio](https://github.com/femertux/mobile-portfolio)**
+Construyo aplicaciones móviles y para TV en producción usando **Kotlin, Swift, Jetpack Compose, SwiftUI, Media3/ExoPlayer, AVPlayer, Firebase, analytics, notificaciones push y arquitectura limpia**.
 
----
+## 🛠️ Tecnologías y áreas de trabajo
 
-### Acerca de mí
-- 💻 Comencé en el desarrollo móvil con Android desde 2016 y iOS desde 2018.
-- 🖌️ Fanático de Compose y SwiftUI
+- **Android:** Kotlin, Jetpack Compose, Hilt, Room, Retrofit, Media3, IMA Ads
+- **iOS:** Swift, SwiftUI, UIKit, AVPlayer, Combine, Firebase
+- **TV:** Android TV, tvOS, navegación con foco, aplicaciones de streaming
+- **Multiplatform:** Kotlin Multiplatform, capas compartidas de dominio y datos
+- **Arquitectura:** MVVM, Clean Architecture, modularización, CI/CD
 
+## 📌 Portafolio
 
+👉 [femertux.github.io/mobile-portfolio](https://femertux.github.io/mobile-portfolio)
 
- ### Habilidades
-- 🎨 SwiftUI
-- 🎨 Compose
-- 📐 UIKit
-- 💽 Core Data
-- 🔥 Firebase
-- 📍 MapKit
-- 🤖 Kotlin
-- 💾 Room
-- 🏛️ MVVM
+## 📫 Contacto
+
+- **LinkedIn:** [femer-garcia-ni](https://www.linkedin.com/in/femer-garcia-ni/)
+- **GitHub:** [femertux](https://github.com/femertux)
