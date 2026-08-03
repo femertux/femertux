@@ -14,7 +14,7 @@ Construyo aplicaciones móviles y para TV en producción usando **Kotlin, Swift,
 
 ## 📌 Portafolio
 
-👉 [femertux.github.io/mobile-portfolio](https://femertux.github.io/mobile-portfolio)
+👉 [femertux.github.io/mobile-portfolio](https://github.com/femertux/mobile-portfolio)
 
 ## 📫 Contacto
 
